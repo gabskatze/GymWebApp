@@ -5,7 +5,7 @@ This is a multi-module web application.
 
 To run it locally, just follow these steps:
 1. Install npm
-2. Install angular-cli
+2. Install angular-cli (npm install -g @angular/cli)
 3. Run ng serve
 4. Browse to localhost:4200
 
